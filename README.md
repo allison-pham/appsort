@@ -1,5 +1,10 @@
 # AppSort
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+[![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 
-Takes a file and automatically creates groups based on the following: categories that have the least respondents will be put into groups of 4 and respondents that don't fall under the categories with the least resopndents will be put into groups of 4.
+Streamline the application review process
+
+## Overview
+- Automatically creates groups
+- Categories that have the least respondents will be put into groups of 4
+- Respondents that don't fall under the categories with the least respondents will be put into groups of 4
